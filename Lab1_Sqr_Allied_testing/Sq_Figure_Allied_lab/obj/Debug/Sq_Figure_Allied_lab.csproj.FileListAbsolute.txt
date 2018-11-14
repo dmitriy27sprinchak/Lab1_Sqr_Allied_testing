@@ -10,3 +10,16 @@ C:\Users\Dmitriy Sprinchak\source\repos\Sq_Figure_Allied_lab\Sq_Figure_Allied_la
 C:\Users\Dmitriy Sprinchak\source\repos\Sq_Figure_Allied_lab\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.pdb
 C:\Users\Dmitriy Sprinchak\source\repos\Sq_Figure_Allied_lab\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.CircleParam.resources
 C:\Users\Dmitriy Sprinchak\source\repos\Sq_Figure_Allied_lab\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.TriangleParam.resources
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\bin\Debug\Sq_Figure_Allied_lab.exe.config
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\bin\Debug\Sq_Figure_Allied_lab.exe
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\bin\Debug\Sq_Figure_Allied_lab.pdb
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.CircleParam.resources
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.Form1.resources
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.TriangleParam.resources
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.Properties.Resources.resources
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.csproj.GenerateResource.Cache
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.csproj.CoreCompileInputs.cache
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.exe
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.pdb
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.csprojResolveAssemblyReference.cache
+C:\Users\lorik\source\repos\Lab1_Sqr_Allied_testing\Lab1_Sqr_Allied_testing\Sq_Figure_Allied_lab\obj\Debug\Sq_Figure_Allied_lab.SquareParam.resources
