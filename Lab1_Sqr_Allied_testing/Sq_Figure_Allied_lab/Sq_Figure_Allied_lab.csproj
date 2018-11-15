@@ -102,6 +102,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SquareParam.resx">
+      <DependentUpon>SquareParam.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TriangleParam.resx">
       <DependentUpon>TriangleParam.cs</DependentUpon>
     </EmbeddedResource>
