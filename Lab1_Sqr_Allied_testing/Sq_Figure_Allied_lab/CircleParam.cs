@@ -12,6 +12,10 @@ namespace Sq_Figure_Allied_lab
 {
     public partial class CircleParam : Form
     {
+        string s;
+        double r,r2;
+        double PI = 3.14;
+
         
         public CircleParam()
         {
@@ -26,36 +30,14 @@ namespace Sq_Figure_Allied_lab
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            s = textBox1.Text;
+            r = Convert.ToDouble(s);
         }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if((e.KeyChar >= '0') && (e.KeyChar <= '9'))
-            {
-                return;
-            }
-
-            if (e.KeyChar == '.')
-            {
-                e.KeyChar = ',';
-            }
-
-            if (e.KeyChar == ',')
-            {
-                if (textBox1.Text.IndexOf(',') != -1)
-                {
-                    e.Handled = true;
-                }
-                return;
-            }
-            if (Char.IsControl(e.KeyChar))
-            {
-                if (e.KeyChar == (char)Keys.Enter)
-                    button1.Focus();
-                return;
-            }
-            e.Handled = true;
+          
+   
 
         }
 
@@ -67,28 +49,18 @@ namespace Sq_Figure_Allied_lab
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double radius;
-            double answer;
-
-            try
-          {
-                radius = Convert.ToDouble(label2);
-                answer = (radius * radius) * 3.14;
-
-                textBox2.Text = answer.ToString("n") + "см^2";
-
-          }
-
-            catch
-            {
-                textBox1.Focus();
-            }
-        
+              
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void textBox2_MouseClick(object sender, MouseEventArgs e)
+        {
+            r2 = (r * r) * PI;
+            textBox2.Text = Convert.ToString(r2);
         }
     }
 }
